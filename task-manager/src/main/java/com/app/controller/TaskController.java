@@ -22,7 +22,11 @@ import com.app.service.TaskService;
 import jakarta.validation.Valid;
 
 /*
- 
+  {
+ "taskTitle":"Task One ",
+ "taskDesc":"This is Task One",
+ "status":"Pending"
+ }
  
  {
  "taskTitle":"Task One ",
