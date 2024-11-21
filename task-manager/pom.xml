@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app</groupId>
-	<artifactId>Task-Supervision-App</artifactId>
+	<artifactId>task-manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Task-Supervision-App</name>
-	<description>Project for Task Supervision</description>
+	<name>task-manager</name>
+	<description>Project for task-manager</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

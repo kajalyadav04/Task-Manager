@@ -39,8 +39,8 @@ public class Profile {
 			message = "email should be in proper format i.e : johndoe@example.com"
 	)
 	private String email;
-	@JsonProperty(access = Access.WRITE_ONLY)
 
+	@JsonProperty(access = Access.WRITE_ONLY)
 	private String password;
 
 	private String role;
